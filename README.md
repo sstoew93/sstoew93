@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, my name is Stanimir Stoew 👋
+- 🌱 I’m currently learning Java.
+
+
 
 <!--
 **sstoew93/sstoew93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
