@@ -1,5 +1,7 @@
 ### Hello, my name is Stanimir Stoew 👋
-- 🌱 I’m currently learning Java.
+- ⚡ HTML/CSS developer
+- ⚡ JAVA developer
+- 🌱 I’m currently learning JavaScript Front-end.
 
 
 
