@@ -11,18 +11,6 @@ Born in Stara Zagora, Bulgaria in 1993 year. At the moment i live in Radnevo, Bu
 <br/>
 <br/>
 
-                                                
-                                                
-             0101                      010101   010101  
-             0101                     0101 0101 0101 0101 
- 01010101  01010101 0101010101  010101   010101 0101 01 01010101 0101    0101 
-010101   010101    0101   0101 0101 0101 0101 01 01 01  01010101  010101  
- 01010101  01010101  0101   0101 0101 0101010101 0101010101    0101    0101 
-   010101   010101 0101 01010101 0101 0101     01010101 0101 0101 0101 0101 
-0101010101 0101010101   010101  010101   01010101  01 01   010101   010101  
-                                                
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sstoew93&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=sstoew93&theme=dark&hide_border=true)
 
