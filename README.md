@@ -22,8 +22,8 @@ Born in Stara Zagora, Bulgaria in 1993 year. At the moment i live in Radnevo, Bu
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img style="height: 200px; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api?username=sstoew93&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img style="height: 200px; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sstoew93&theme=dark&show_icons=true&hide_border=true&layout=compact" /></div>
+  <img style="height: 200px; width: 400px;" class="img" src="https://github-readme-stats.vercel.app/api?username=sstoew93&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img style="height: 200px; width: 360px;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sstoew93&theme=dark&show_icons=true&hide_border=true&layout=compact" /></div>
 </p>
 
 
