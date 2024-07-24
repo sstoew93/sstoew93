@@ -4,6 +4,8 @@ Born in Stara Zagora, Bulgaria in 1993 year. At the moment i live in Radnevo, Bu
 ⚡ -  My journey into the tech world has equipped me with a versatile skill set in Java, HTML and CSS, DOM manipulation, JavaScript..
 ⚡ -  In addition to coding, I have a keen interest in learning about emerging technologies and how they can be leveraged to solve real-world problems. 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <p align="center">
   <h3>Languages:</h3>
