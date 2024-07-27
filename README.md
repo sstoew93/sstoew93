@@ -6,7 +6,6 @@ Born in Stara Zagora, Bulgaria in 1993 year. At the moment i live in Radnevo, Bu
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 <p align="center">
   <h3>Languages:</h3>
   <a href="#">
