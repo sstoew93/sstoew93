@@ -29,6 +29,5 @@ Born in Stara Zagora, Bulgaria in 1993 year. At the moment i live in Radnevo, Bu
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=7f7f7f)
 
