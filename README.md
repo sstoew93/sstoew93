@@ -16,8 +16,9 @@ Born in Stara Zagora, Bulgaria in 1993 year. At the moment i live in Radnevo, Bu
 <p align="center">
   <h3>Tools:</h3>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=maven,spring,github,idea,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=maven,spring,github,idea,vscode,postman" /> &nbsp;<img src="https://avatars.githubusercontent.com/u/1492367?s=48"/> 
   </a>
+
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
