@@ -1,24 +1,37 @@
 👋 -  Hi there! I'm Stanimir Stoew!
-Born in Stara Zagora, Bulgaria in 1993 year. At the moment i live in Radnevo, Bulgaria.
+Born in Stara Zagora, Bulgaria in 1993, I currently live in Radnevo, Bulgaria.
 
-⚡ -  My journey into the tech world has equipped me with a versatile skill set in Java, HTML and CSS, DOM manipulation, JavaScript..
+⚡ -  My journey into the tech world has equipped me with a versatile skill set in Java, HTML, CSS, DOM manipulation, and JavaScript...
 ⚡ -  In addition to coding, I have a keen interest in learning about emerging technologies and how they can be leveraged to solve real-world problems. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <h3>Languages:</h3>
+  <h3>Tech Stack:</h3>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
   </a>
 </p>
 
 <p align="center">
-  <h3>Tools:</h3>
+  <h3>DevOps & Automation:</h3>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,maven,spring,git,github,azure,docker,terraform,jenkins,idea,vscode,postman,prometheus,grafana" /> &nbsp;<img src="https://avatars.githubusercontent.com/u/1492367?s=48"/> 
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,terraform,jenkins,azure" />
   </a>
+</p>
 
+<p align="center">
+  <h3>Development Tools:</h3>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linux,maven,idea,vscode,postman,spring" /> &nbsp;<img src="https://avatars.githubusercontent.com/u/1492367?s=48"/> 
+  </a>
+</p>
+
+<p align="center">
+  <h3>Monitoring & Observability:</h3>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+  </a>
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
